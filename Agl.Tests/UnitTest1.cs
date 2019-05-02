@@ -3,10 +3,22 @@ using Xunit;
 
 namespace Agl.Tests
 {
-    public class UnitTest1
+    public class PersonServieTest
     {
+       
+
         [Fact]
-        public void Test1()
+        public void Cats_Should_Only_Be_Selected()
+        {
+
+        }
+        [Fact]
+        public void Cats_Should_Be_Mapped_According_To_OwnerGender()
+        {
+
+        }
+        [Fact]
+        public void Cats_Should_Be_In_AscendingOrder_Under_OwnerGender()
         {
 
         }
