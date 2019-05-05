@@ -36,5 +36,7 @@ namespace Agl.Web
 
             app.UseMvc();
         }
+
+    
     }
 }

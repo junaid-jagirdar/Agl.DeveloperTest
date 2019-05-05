@@ -8,17 +8,17 @@ namespace Agl.Tests
        
 
         [Fact]
-        public void Cats_Should_Only_Be_Selected()
+        public void Should_Only_Be_Cats()
         {
 
         }
         [Fact]
-        public void Cats_Should_Be_Mapped_According_To_OwnerGender()
+        public void Should_Be_Mapped_According_To_OwnerGender()
         {
 
         }
         [Fact]
-        public void Cats_Should_Be_In_AscendingOrder_Under_OwnerGender()
+        public void Should_Be_In_AscendingOrder_Under_OwnerGender()
         {
 
         }
